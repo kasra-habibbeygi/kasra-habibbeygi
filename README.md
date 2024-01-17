@@ -9,6 +9,5 @@ I've been experiencing web programming for 5 years and I'm very passionate✨ ab
 
 <p>I've also worked on back-end development and UI\UX design for a while, but not professionally. In reality, I have experience working with these aspects as well: PHP, MySQL, SEO, UI\UX, Figma, StoryBook</p>
 
-![Anurag's GitHub stats](https://github-readme-stats-zaxs.vercel.app/api?username=kasra-habibbeygi&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 
