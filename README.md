@@ -1,5 +1,4 @@
-## -Hi :man_technologist:
-<hr/>
+## -Hi
 
 <p>
 I'm a Front-End Developer (React.JS).<br />
