@@ -1,7 +1,7 @@
-<img src='./banner.png' alt='introduce' />
+<img src='./banner.jpg' alt='introduce' style='border-radius : 8px'/>
 
-<p>
-I've been experiencing web programming for 5 years and I'm very passionate about my work. I try to learn new things every day so that I can be useful to the people and companies who work with me.
+<p style='text-align:center'>
+I've been experiencing web programming for 5 years and I'm very passionate✨ about my work❤. I try to learn🧐 new things every day so that I can be useful💪 to the people and companies who work with me.
 </p>
 
 ## Technology Stack
