@@ -1,6 +1,6 @@
-<img src='./banner.jpg' alt='introduce' style='border-radius : 8px'/>
+<img src='./banner.jpg' alt='introduce'/>
 
-<p style='text-align:center'>
+<p align='center'>
 I've been experiencing web programming for 5 years and I'm very passionate✨ about my work❤. I try to learn🧐 new things every day so that I can be useful💪 to the people and companies who work with me.
 </p>
 
