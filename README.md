@@ -1,4 +1,5 @@
 ### Hi there 👋
+<hr/>
 
 <p>
 I'm a Front-End Developer (React.JS).<br />
